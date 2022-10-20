@@ -98,6 +98,7 @@ class Plugin {
 		//$this->register_admin();
 
 		new Books_Post_Type();
+		new Elementor();
 	}
 
 	/**
